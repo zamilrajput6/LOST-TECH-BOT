@@ -3,13 +3,13 @@
 
 const settings = {
   // 🏷️ Sticker Settings
-  packname: '💎 MANI-TECH-MD 💎',
-  author: '👑 ManiMD Official 🇵🇰',
+  packname: '💎 LOST-TECH-BOT 💎',
+  author: '👑 LOST Official 🇵🇰',
 
   // 🤖 Bot Identity
-  botName: '⚡ MANI TECH MD ⚡',
-  botOwner: '🌍 MANI MD Official 🇵🇰',   // Change to your name if needed
-  ownerNumber: '923033096103',        // Your number without + symbol
+  botName: '⚡ LOST TECH BOT ⚡',
+  botOwner: '🌍 LOST BOT Official 🇵🇰',   // Change to your name if needed
+  ownerNumber: '923047576547',        // Your number without + symbol
 
   // 🎬 APIs
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq', // For GIF commands
